@@ -1,0 +1,363 @@
+date,confirmed_cumulative_cases,total_cumulative_cases,confirmed_cumulative_deaths,total_cumulative_deaths,cumulative_recoveries,cumulative_vaccinations,cumulative_vaccinations_beni,cumulative_vaccinations_katwa,cumulative_vaccinations_mabalako,cumulative_vaccinations_butembo,source_url
+8/6/18,16,43,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/70213f4262fb/ebola_kivu_6aout
+8/7/18,16,43,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/526091c2d161/ebola_kivu_7aout
+8/8/18,17,44,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/80a23d454958/ebola_kivu_8aout
+8/9/18,17,44,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/4cc2513a9f7d/ebola_kivu_9aout
+8/10/18,21,48,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/68ac0a236b26/ebola_kivu_10aout
+8/11/18,22,49,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/17136ac871cd/ebola_kivu_11aout
+8/12/18,25,52,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/5740eb659e90/ebola_kivu_12aout
+8/13/18,30,57,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/de936e52fb17/ebola_kivu_13aout
+8/14/18,39,66,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/37b7545e3544/ebola_kivu_14aout
+8/15/18,46,73,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/96767bcd0575/ebola_kivu_15aout
+8/16/18,51,78,not found,not found 2,not found,316,not found,not found,176,not found,https://mailchi.mp/2d5b7a2d510a/ebola_kivu_16aout
+8/17/18,60,87,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/74a121fdd538/ebola_kivu_17aout
+8/18/18,63,90,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/758eb254afd1/ebola_kivu_18aout
+8/19/18,64,91,not found,not found 2,not found,873,not found,not found,467,not found,https://mailchi.mp/231176da338d/ebola_kivu_19aout
+8/20/18,69,96,not found,not found 2,not found,"1,273",not found,not found,697,not found,https://mailchi.mp/bad94a83ea28/ebola_kivu_20aout
+8/21/18,75,102,not found,not found 2,not found,"1,693",not found,not found,903,not found,https://mailchi.mp/58d0398606a4/ebola_kivu_21aout
+8/22/18,76,103,not found,not found 2,not found,"2,179",not found,not found,"1,178",not found,https://mailchi.mp/9abcbef79b2c/ebola_kivu_22aout
+8/23/18,76,103,not found,not found 2,not found,"2,613",not found,not found,"1,311",not found,https://mailchi.mp/ad8db275a17f/ebola_kivu_23aout
+8/24/18,77,105,not found,not found 2,not found,"2,957",not found,not found,"1,422",not found,https://mailchi.mp/970b172dfebc/ebola_kivu_24aout
+8/25/18,79,107,not found,not found 2,not found,"3,481",not found,not found,"1,712",not found,https://mailchi.mp/c9c7043a5a23/ebola_kivu_25aout
+8/26/18,83,111,not found,not found 2,not found,"3,591",not found,not found,"1,822",not found,https://mailchi.mp/9feedcd3907b/ebola_kivu_26aout
+8/27/18,83,111,not found,not found 2,not found,"4,130",not found,not found,"1,992",not found,https://mailchi.mp/4b1528882fd6/ebola_kivu_27aout
+8/28/18,84,112,not found,not found 2,not found,"4,511",not found,not found,"2,278",not found,https://mailchi.mp/49dc88255f69/ebola_kivu_28aout
+8/29/18,85,115,not found,not found 2,not found,"4,645",not found,not found,"2,372",not found,https://mailchi.mp/aa63872541fd/ebola_kivu_29aout
+8/30/18,86,116,not found,not found 2,not found,"4,851",not found,not found,"2,523",not found,https://mailchi.mp/1012b27227bc/ebola_kivu_30aout
+8/31/18,88,118,not found,not found 2,not found,"5,150","1,286",not found,"2,707",not found,https://mailchi.mp/230a80c1c317/ebola_kivu_31aout
+9/1/18,90,120,not found,not found 2,not found,"5,462","1,433",not found,"2,852",not found,https://mailchi.mp/221fb6ed0a42/ebola_kivu_1sept
+9/2/18,90,120,not found,not found 2,not found,"5,773","1,560",not found,"3,036",not found,https://mailchi.mp/fe4fb528194b/ebola_kivu_2sept
+9/3/18,91,121,not found,not found 2,not found,"5,946","1,633",30,"3,076",not found,https://mailchi.mp/f0e9bc8d9e2e/ebola_kivu_3sept
+9/4/18,93,124,not found,not found 2,not found,"6,134","1,747",60,"3,120",not found,https://mailchi.mp/b54b63c3f920/ebola_kivu_4sept
+9/5/18,96,127,not found,not found 2,not found,"6,343","1,856",70,"3,210",not found,https://mailchi.mp/534570505aa4/ebola_kivu_5sept-erratum
+9/6/18,98,129,not found,not found 2,not found,"6,486","1,930",70,"3,279",not found,https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=540896bcd7
+9/7/18,98,129,58,not found 2,33,"6,820","2,047",70,"3,389",107,https://mailchi.mp/d8019cbd3724/ebola_kivu_7sept
+9/8/18,100,131,58,not found 2,35,"7,069","2,130",70,"3,435",107,https://mailchi.mp/b0c4027473ad/ebola_kivu_8sept
+9/9/18,100,131,59,not found 2,35,"7,409","2,190",70,"3,475",167,https://mailchi.mp/363955d77983/ebola_kivu_9sept
+9/10/18,101,132,60,not found 2,36,"7,780","2,284",70,"3,503",287,https://mailchi.mp/196210a9e992/ebola_kivu_10sept
+9/11/18,101,132,61,not found 2,37,"8,190","2,428",150,"3,572",346,https://mailchi.mp/ff1463ead572/ebola_kivu_11sept
+9/12/18,102,133,61,not found 2,37,"8,444","2,533",150,"3,613",444,https://mailchi.mp/1644c6a622ef/ebola_kivu_12sept
+9/13/18,106,137,61,not found 2,37,"8,738","2,656",150,"3,654",544,https://mailchi.mp/c58e80fafe6f/ebola_kivu_13sept
+9/14/18,109,140,63,not found 2,37,"8,963","2,781",150,"3,667",594,https://mailchi.mp/820051e5d093/ebola_kivu_14sept
+9/15/18,109,140,64,not found 2,37,not found,not found,not found,not found,not found,https://mailchi.mp/2e6744c50cf5/ebola_kivu_15sept
+9/16/18,111,142,66,not found 2,38,not found,not found,not found,not found,not found,https://mailchi.mp/b9f8278091fc/ebola_kivu_16sept
+9/17/18,111,142,66,not found 2,38,"9,721","3,123",300,"3,826",624,https://mailchi.mp/822fafac8a55/ebola_kivu_17sept
+9/18/18,111,142,66,not found 2,38,not found,not found,not found,not found,not found,https://mailchi.mp/eec05154b8e8/ebola_kivu_18sept
+9/19/18,111,142,66,not found 2,38,"10,352","3,350",314,"3,935",754,https://mailchi.mp/695bb330c6a4/ebola_kivu_19sept
+9/20/18,112,143,66,not found 2,39,"10,663","3,409",373,"3,935",814,https://mailchi.mp/38deffc31ebf/ebola_kivu_20sept
+9/21/18,116,147,68,not found 2,39,"10,944","3,455",413,"3,980",844,https://mailchi.mp/4bc95ae1768f/ebola_kivu_21sept
+9/22/18,116,147,68,not found 2,40,"11,109","3,536",573,"4,014",734,https://mailchi.mp/9de66c89895d/ebola_kivu_22sept
+9/23/18,118,149,69,not found 2,40,"11,417","3,652",613,"4,056",834,https://mailchi.mp/ca153def9618/ebola_kivu_23sept
+9/24/18,119,150,69,not found 2,41,"11,563","3,652",683,"4,065",884,https://mailchi.mp/efc69f724562/ebola_kivu_24sept
+9/25/18,120,151,70,not found 2,41,"11,773","3,652",803,"4,122",884,https://mailchi.mp/13493f87482a/ebola_kivu_25sept
+9/26/18,120,151,70,not found 2,41,"11,921","3,652",903,"4,122",884,https://mailchi.mp/fe4b2f287c8d/ebola_kivu_26sept
+9/27/18,123,154,70,not found 2,43,"12,029","3,662",903,"4,122",884,https://mailchi.mp/sante.gouv.cd/ebola_kivu_27sept
+9/28/18,124,155,71,not found 2,45,"12,250","3,712",993,"4,122",884,https://mailchi.mp/sante.gouv.cd/ebola_kivu_28sept
+9/29/18,126,157,71,not found 2,45,"12,614","3,829","1,043","4,152",944,https://mailchi.mp/sante.gouv.cd/ebola_kivu_29sept
+9/30/18,127,159,72,not found 2,45,"12,940","3,958","1,143","4,193",944,https://mailchi.mp/sante.gouv.cd/ebola_kivu_30sept
+10/1/18,129,161,73,not found 2,45,"13,208","4,095","1,193","4,207",944,https://mailchi.mp/sante.gouv.cd/ebola_kivu_1oct
+10/2/18,129,161,74,not found 2,45,"13,542","4,248","1,283","4,207",944,https://mailchi.mp/sante.gouv.cd/ebola_kivu_2oct
+10/3/18,130,162,74,not found 2,46,"13,750","4,375","1,283","4,254",944,https://mailchi.mp/sante.gouv.cd/ebola_kivu_3oct
+10/4/18,not found,not found,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_4oct
+10/5/18,135,167,74,not found 2,48,"14,278","4,737","1,287","4,269","1,060",https://mailchi.mp/sante.gouv.cd/ebola_kivu_5oct
+10/6/18,140,172,76,not found 2,49,"14,619","4,937","1,337","4,269","1,060",https://mailchi.mp/sante.gouv.cd/ebola_kivu_6oct
+10/7/18,142,177,78,not found 2,50,"14,869","5,072","1,352","4,269","1,100",https://mailchi.mp/sante.gouv.cd/ebola_kivu_7oct
+10/8/18,146,181,80,not found 2,50,"15,114","5,250","1,392","4,289","1,100",https://mailchi.mp/sante.gouv.cd/ebola_kivu_8oct
+10/9/18,153,188,83,not found 2,51,"15,279","5,385","1,392","4,289","1,100",https://mailchi.mp/sante.gouv.cd/ebola_kivu_9oct
+10/10/18,159,194,87,not found 2,53,"15,525","5,616","1,392","4,289","1,085",https://mailchi.mp/sante.gouv.cd/ebola_kivu_10oct
+10/11/18,165,200,90,not found 2,53,"15,807","5,838","1,392","4,289","1,085",https://mailchi.mp/sante.gouv.cd/ebola_kivu_11oct
+10/12/18,170,205,95,not found 2,54,"16,202","6,163","1,392","4,289","1,085",https://mailchi.mp/sante.gouv.cd/ebola_kivu_12oct
+10/13/18,172,207,95,not found 2,54,"16,518","6,453","1,392","4,315","1,085",https://mailchi.mp/sante.gouv.cd/ebola_kivu_13oct
+10/14/18,176,211,100,not found 2,55,"16,973","6,832","1,392","4,351","1,085",https://mailchi.mp/sante.gouv.cd/ebola_kivu_14oct
+10/15/18,179,214,104,not found 2,55,"17,438","7,192","1,392","4,391","1,085",https://mailchi.mp/sante.gouv.cd/ebola_kivu_15oct
+10/16/18,181,216,104,not found 2,57,"17,976","7,620","1,392","4,391","1,085",https://mailchi.mp/sante.gouv.cd/ebola_kivu_16oct
+10/17/18,185,220,107,not found 2,57,"18,465","7,999","1,392","4,391","1,085",https://mailchi.mp/sante.gouv.cd/ebola_kivu_17oct
+10/18/18,188,223,109,not found 2,57,"18,998","8,422","1,392","4,391","1,085",https://mailchi.mp/sante.gouv.cd/ebola_kivu_18oct
+10/19/18,192,227,112,not found 2,58,"19,539","8,843","1,452","4,391","1,085",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=70a29bcd89
+10/20/18,200,235,117,not found 2,61,"20,229","9,393","1,592","4,391","1,085",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=5b0b3867b3
+10/21/18,202,237,118,not found 2,63,"20,789","9,823","1,672","4,391","1,085",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=b65abcbd17
+10/22/18,203,238,120,not found 2,63,"20,849","9,823","1,672","4,391","1,145",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=3b2c72b6c8
+10/23/18,209,244,122,not found 2,63,"20,939","9,853","1,732","4,391","1,145",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=54842c0f1b
+10/24/18,212,247,124,not found 2,65,"21,553","10,327","1,742","4,391","1,145",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=cd46533fcd
+10/25/18,216,251,127,not found 2,67,"22,326","10,945","1,847","4,391","1,195",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=c92e4270c7
+10/26/18,222,257,129,not found 2,67,"22,811","11,328","1,907","4,391","1,195",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=ef9cd2d167
+10/27/18,Bad URL,Bad URL,Bad URL,Bad URL,Bad URL,Bad URL,Bad URL,Bad URL,Bad URL,Bad URL,Bad URL
+10/28/18,232,267,135,not found 2,70,"23,691","12,113","1,962","4,391","1,235",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=b7dfaf6885
+10/29/18,239,274,139,not found 2,73,"24,142","12,464","1,962","4,391","1,295",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=80be8b0096
+10/30/18,241,276,140,not found 2,74,"24,510","12,762","1,962","4,391","1,295",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=9c61f6f046
+10/31/18,244,279,144,not found 2,81,"24,863","13,015","2,002","4,391","1,355",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=eb02714878
+11/1/18,250,285,145,not found 2,81,"25,336","13,326","2,062","4,391","1,355",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=14196c9020
+11/2/18,252,287,146,not found 2,81,"25,600","13,433","2,062","4,413","1,355",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=8674d4f7a6
+11/3/18,258,293,147,not found 2,81,"25,845","13,655","2,062","4,436","1,355",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=baaa79a3de
+11/4/18,263,298,151,not found 2,81,"26,135","13,825","2,062","4,436","1,355",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=4a9a8054b7
+11/5/18,265,300,151,not found 2,88,"26,463","14,033","2,152","4,436","1,435",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=42c7af57f7
+11/6/18,270,305,154,not found 2,88,"26,724","14,160","2,152","4,436","1,435",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=a79161bd59
+11/7/18,273,308,156,not found 2,91,not found,not found,not found,not found,not found,https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=4b5beec831
+11/8/18,277,312,156,not found 2,91,"27,398","14,479","2,152","4,480","1,385",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=16a2ac3656
+11/9/18,284,319,163,not found 2,97,"27,832","14,653","2,152","4,515","1,385",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=5458d53cfd
+11/10/18,291,326,166,201,98,"28,303","14,858","2,152","4,544","1,435",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=4b9848fdef
+11/11/18,294,329,170,205,not found,"28,727","14,966","2,152","4,544","1,435",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=3594a8eb5d
+11/12/18,295,333,171,209,not found,"28,991","14,966","2,262","4,544","1,435",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=3265aed53a
+11/13/18,301,339,174,212,not found,"29,560","15,205","2,432","4,544","1,435",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=dccfabc433
+11/14/18,303,341,177,215,not found,"30,072","15,412","2,552","4,544","1,485",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=5888dc1b5c
+11/15/18,304,344,162,202,not found,"30,563","15,573","2,742","4,544","1,565",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=73b0a7cf24
+11/16/18,305,352,163,210,not found,"31,224","15,729","3,062","4,544","1,615",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=fddf300d12
+11/17/18,311,358,166,213,not found,"31,713","15,901","3,292","4,544","1,615",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=d35154a642
+11/18/18,319,366,167,214,not found,"31,953","15,901","3,453","4,544","1,645",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=5794bf500d
+11/19/18,326,373,169,216,108,"32,108","15,962","3,453","4,544","1,715",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=133e4b89be
+11/20/18,326,373,170,217,110,"32,626","16,210","3,633","4,544","1,765",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=97b8d385d1
+11/21/18,339,386,172,219,113,"33,077","16,395","3,834","4,544","1,820",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=48622b0407
+11/22/18,346,393,175,222,117,"33,498","16,527","3,924","4,544","1,990",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=e1cf50698c
+11/23/18,352,399,181,228,118,"34,091","16,635","4,309","4,544","2,090",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=104902cbb9
+11/24/18,356,403,184,231,120,"34,839","16,832","4,620","4,544","2,240",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=affd57dff1
+11/25/18,365,412,189,236,120,"35,389","16,997","4,660","4,544","2,390",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=97a997e756
+11/26/18,372,419,193,240,123,"35,958","17,194","4,873","4,544","2,460",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=248cc081d9
+11/27/18,374,421,194,241,125,"36,612","17,465","5,017","4,544","2,630",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=55672db117
+11/28/18,375,422,195,242,125,"37,075","17,651","5,134","4,544","2,790",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=f00e29e648
+11/29/18,379,426,198,245,126,"37,559","17,733","5,270","4,544","2,980",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=bc5bddcafc
+11/30/18,380,428,200,248,131,"38,018","17,808","5,348","4,544","3,130",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=63263cf3e0
+12/1/18,386,434,204,252,138,"38,353","17,831","5,478","4,544","3,240",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=2c6e58f6f7
+12/2/18,392,440,207,255,139,"38,821","17,871","5,608","4,544","3,356",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=5ffd88f6ad
+12/3/18,396,444,212,260,140,"39,277","17,956","5,753","4,544","3,367",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=af4f77c907
+12/4/18,405,453,220,268,144,"39,845","18,058","5,903","4,544","3,483",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=35f603522f
+12/5/18,410,458,223,271,146,"40,493","18,135","6,062","4,544","3,556",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=e073c72968
+12/6/18,423,471,225,273,149,"41,226","18,270","6,272","4,578","3,556",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=8a505d9003
+12/7/18,429,477,227,275,not found,"41,817","18,345","6,469","4,650","3,596",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=b7046ae344
+12/8/18,not found,489,232,280,not found,"42,673","18,413","6,699","4,732","3,853",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=35b29a9d1c
+12/9/18,446,494,235,283,165,"43,449","18,441","6,966","4,792","4,096",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=3c3aa04454
+12/10/18,450,498,237,285,167,"43,944","18,500","7,176","4,836","4,176",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=1779054324
+12/11/18,452,500,241,289,172,"44,447","18,559","7,346","4,915","4,276",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=04141c7428
+12/12/18,457,505,250,298,175,"45,020","18,638","7,765","4,930","4,276",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=0da99fb326
+12/13/18,467,515,not found,303,179,"45,647","18,726","8,084","4,950","4,276",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=b19df2d61f
+12/14/18,473,521,not found,306,182,"46,047","18,785","8,298","4,985","4,316",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=4b9dc5a5d9
+12/15/18,481,529,263,311,183,"46,887","18,855","8,438","5,036","4,606",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=9a337de507
+12/16/18,483,531,265,313,184,"47,592","18,952","8,524","5,036","4,894",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=dfc4e1bb7b
+12/17/18,491,539,267,315,186,"48,048","19,017","8,619","5,077","4,974",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=089b5462c7
+12/18/18,494,542,271,319,192,"48,781","19,060","8,858","5,135","5,114",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=89a4ad0ad2
+12/19/18,501,549,278,326,193,"49,384","19,060","9,018","5,135","5,314",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=c2608bba60
+12/20/18,512,560,288,336,193,"49,940","19,120","9,233","5,155","5,388",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=4ea3e9cc12
+12/21/18,515,563,295,343,195,"50,489","19,147","9,519","5,261","5,428",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=20fedfa6d0
+12/22/18,519,567,299,347,197,"50,945","19,147","9,729","5,261","5,478",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=900777b642
+12/23/18,526,574,299,347,198,"51,678","19,240","10,049","5,283","5,605",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=abef727b19
+12/24/18,531,579,304,352,201,"52,122","19,348","10,185","5,283","5,675",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=8511854d94
+12/25/18,535,583,306,354,201,"52,630","19,348","10,303","5,313","5,745",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=9958aef9a2
+12/26/18,537,585,308,356,201,"53,031","19,348","10,523","5,327","5,785",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=b3df097203
+12/27/18,543,591,309,357,203,"53,523","19,363","10,761","5,377","5,875",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=4ff93ad782
+12/28/18,545,593,311,359,203,"53,613","19,363","10,761","5,377","5,875",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=a405d11562
+12/29/18,545,593,312,360,203,"53,613","19,363","10,761","5,377","5,875",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=64b82ce1d7
+12/30/18,548,596,313,361,204,"53,737","19,363","10,761","5,377","5,875",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=39662f9103
+12/31/18,550,598,315,363,204,"53,737","19,363","10,761","5,377","5,875",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=f3a40bf680
+1/1/19,554,602,318,366,205,"53,917","19,363","10,761","5,377","5,917",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=eafcdad12e
+1/2/19,560,608,320,368,207,"54,153","19,363","10,761","5,377","5,977",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=e297e9c9be
+1/3/19,561,609,322,370,208,"54,522","19,433","10,851","5,393","6,060",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=d860e4d980
+1/4/19,565,613,323,371,212,"55,102","19,486","10,987","5,423","6,216",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=43d9c741b2
+1/5/19,566,614,326,374,not found,"55,676","19,546","11,088","5,452","6,319",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=5452b8674b
+1/6/19,575,623,326,374,not found,"56,211","19,601","11,323","5,513","6,369",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=fd4d70a646
+1/7/19,577,625,329,377,220,"56,509","19,619","11,526","5,550","6,369",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=7af14fa080
+1/8/19,579,627,334,382,221,"58,866","19,619","11,526","5,550","6,476",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=30f733dd94
+1/9/19,580,628,335,383,222,"57,471","19,659","11,526","5,593","6,706",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=83a6fcb988
+1/10/19,582,630,337,385,226,"58,085","19,783","11,793","5,611","6,746",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=e3acf00149
+1/11/19,584,632,338,386,227,"58,340","19,818","11,883","5,611","6,746",https://mailchi.mp/sante.gouv.cd/ebola_kivu_11jan19
+1/12/19,586,634,338,386,231,"58,956","19,855","12,153","5,686","6,746",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=922767f361
+1/13/19,595,644,343,392,234,"59,453","19,933","12,250","5,734","6,746",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=ca8b2dfd50
+1/14/19,600,649,347,396,237,"59,856","19,940","12,330","5,734","6,746",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=102ec4a195
+1/15/19,609,658,353,402,237,"60,460","19,952","12,590","5,741","6,746",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=89e1804c7f
+1/16/19,614,663,358,407,237,"60,715","19,970","12,590","5,741","6,746",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=1b813bd576
+1/17/19,619,668,361,410,242,"61,201","19,990","12,815","5,741","6,796",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=938227cc36
+1/18/19,631,680,365,414,243,"61,682","20,012","13,123","5,751","6,796",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=45b7929f20
+1/19/19,636,685,367,416,244,"62,261","20,012","13,269","5,768","6,986",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=2b3d226b45
+1/20/19,636,685,370,419,245,"63,061","20,042","13,449","5,822","7,143",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=2083b3391c
+1/21/19,640,689,373,422,245,"63,750","20,094","13,639","5,822","7,314",http://eepurl.com/geLB1j
+1/22/19,650,699,384,433,246,"64,403","20,116","13,969","5,866","7,414",http://eepurl.com/geTokb
+1/23/19,664,713,390,439,247,"65,172","20,140","14,456","5,926","7,454",http://eepurl.com/ge0801
+1/24/19,666,715,394,443,248,"65,963","20,183","14,894","5,926","7,494",http://eepurl.com/ge8971
+1/25/19,672,721,397,446,253,"66,861","20,183","15,243","5,952","7,494",http://eepurl.com/gffeFL
+1/26/19,675,724,402,451,255,"67,654","20,183","15,551","5,998","7,700",http://eepurl.com/gfjwTL
+1/27/19,679,733,405,459,256,"68,477","20,183","15,909","6,008","7,820",http://eepurl.com/gfnr-H
+1/28/19,682,736,405,459,257,"69,007","20,221","16,171","6,008","7,860",http://eepurl.com/gfuDmr
+1/29/19,689,743,407,461,258,"69,231","20,221","16,171","6,008","7,860",http://eepurl.com/gfCgi9
+1/30/19,698,752,411,465,259,"69,827","20,241","16,390","6,008","7,860",http://eepurl.com/gfL1OD
+1/31/19,705,759,414,468,259,"70,611","20,321","16,657","6,008","7,939",http://eepurl.com/gfUGA1
+2/1/19,709,763,417,471,262,"71,449","20,409","17,064","6,008","8,069",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=377ff1d6b7
+2/2/19,715,769,421,475,264,"72,248","24,435","17,527","6,008","8,099",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=3115455c58
+2/3/19,720,774,427,481,264,"72,768","20,473","17,684","6,008","8,099",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=aea9304842
+2/4/19,731,785,430,484,265,"73,309","20,473","17,993","6,008","8,099",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=bc3267bb6a
+2/5/19,734,788,432,486,267,"74,096","20,473","18,362","6,008","8,126",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=c88e0bb48e
+2/6/19,735,789,434,488,267,"74,732","20,473","18,522","6,035","8,168",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=978bf2e04b
+2/7/19,737,791,438,492,267,"75,526","20,473","18,784","6,064","8,317",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=03dda59271
+2/8/19,739,800,441,502,271,"76,425","20,473","19,171","6,076","8,517",http://eepurl.com/ggOk61
+2/9/19,745,806,444,505,273,"77,010","20,503","19,346","6,076","8,587",http://eepurl.com/ggRdIP
+2/10/19,750,811,449,510,276,"77,188","20,512","19,391","6,076","8,601",http://eepurl.com/ggUjtj
+2/11/19,755,816,452,513,277,"77,680","20,512","19,446","6,076","8,907",http://eepurl.com/gg2Wof
+2/12/19,758,819,455,516,278,"78,000","20,512","19,476","6,076","8,907",http://eepurl.com/gg-Oiv
+2/13/19,762,823,456,517,283,"78,464","20,512","19,621","6,076","9,007",http://eepurl.com/ghgFND
+2/14/19,768,829,460,521,286,"79,146","20,547","19,971","6,076","9,214",http://eepurl.com/gho8ab
+2/15/19,770,835,465,530,287,"79,774","20,547","20,185","6,076","9,351",http://eepurl.com/ghxh-D
+2/16/19,772,837,468,533,291,"80,104","20,547","20,241","6,076","9,555",http://eepurl.com/ghAB9b
+2/17/19,773,838,469,534,294,"80,491","20,547","20,390","6,076","9,641",http://eepurl.com/ghDoKf
+2/18/19,775,840,472,537,294,"80,989","20,547","20,593","6,109","9,713",http://eepurl.com/ghK6Fr
+2/19/19,779,844,463,528,255,"81,306","20,547","20,664","6,109","9,769",http://eepurl.com/ghTapH
+2/20/19,783,848,464,529,257,"81,702","20,563","20,760","6,109","9,876",http://eepurl.com/gh0kT5
+2/21/19,788,853,466,531,not found,"82,144","20,563","20,952","6,109","9,954",http://eepurl.com/gh9EG1
+2/22/19,794,859,471,536,not found,"82,583","20,563","21,184","6,109","10,010",http://eepurl.com/gie-yP
+2/23/19,799,864,475,540,not found,"82,916","20,563","21,230","6,109","10,079",http://eepurl.com/gii1Rr
+2/24/19,804,869,481,546,not found,"83,118","20,593","21,230","6,109","10,091",http://eepurl.com/gimwsL
+2/25/19,807,872,483,548,not found,"83,517","20,613","21,357","6,109","10,220",http://eepurl.com/giutPn
+2/26/19,810,875,486,551,not found,"83,813","20,673","21,434","6,109","10,367",http://eepurl.com/giEHkb
+2/27/19,814,879,488,553,not found,"84,094","20,679","21,504","6,109","10,486",http://eepurl.com/giQwgX
+2/28/19,820,885,490,555,not found,"84,361","20,703","21,662","6,109","10,512",http://eepurl.com/gi0sNT
+3/1/19,823,888,492,557,302,"84,640","20,719","21,717","6,109","10,512",http://eepurl.com/gi-JKX
+3/2/19,825,890,494,559,302,"84,948","20,738","21,774","6,109","10,552",http://eepurl.com/gjdreT
+3/3/19,829,894,496,561,302,"85,226","20,738","21,859","6,109","10,628",http://eepurl.com/gjgRuX
+3/4/19,832,897,498,563,304,"85,375","20,740","21,892","6,109","10,628",http://eepurl.com/gjqaeL
+3/5/19,835,900,500,565,304,"85,698","20,768","21,953","6,109","10,714",https://mailchi.mp/sante.gouv.cd/ebola_kivu_5mar19
+3/6/19,841,907,503,569,304,"85,867","20,779","21,953","6,109","10,785",https://mailchi.mp/sante.gouv.cd/ebola_kivu_6mar19
+3/7/19,848,913,509,574,306,"86,012","20,786","21,960","6,109","10,828",https://mailchi.mp/sante.gouv.cd/ebola_kivu_7mar19
+3/8/19,853,918,513,578,306,"86,346","20,796","22,017","6,109","10,875",https://mailchi.mp/sante.gouv.cd/ebola_kivu_8mar19
+3/9/19,854,919,513,578,307,"86,607","20,805","22,023","6,109","10,875",https://mailchi.mp/sante.gouv.cd/ebola_kivu_9mar19
+3/10/19,856,921,517,582,308,"86,808","20,817","22,023","6,109","10,875",https://mailchi.mp/sante.gouv.cd/ebola_kivu_10mar19
+3/11/19,858,923,517,582,308,"86,951","20,817","22,056","6,109","10,902",https://mailchi.mp/sante.gouv.cd/ebola_kivu_11mar19
+3/12/19,860,925,519,584,308,"87,390","20,829","22,191","6,109","10,908",https://mailchi.mp/sante.gouv.cd/ebola_kivu_12mar19
+3/13/19,862,927,519,584,308,"87,668","20,839","22,275","6,109","10,908",https://mailchi.mp/sante.gouv.cd/ebola_kivu_13mar19
+3/14/19,867,932,522,587,309,"87,985","20,849","22,336","6,109","10,939",https://mailchi.mp/sante.gouv.cd/ebola_kivu_14mar19
+3/15/19,871,936,526,591,310,"88,360","20,857","22,391","6,109","10,966",https://mailchi.mp/sante.gouv.cd/ebola_kivu_15mar19
+3/16/19,878,943,529,594,311,"88,533","20,882","22,403","6,109","10,966",https://mailchi.mp/sante.gouv.cd/ebola_kivu_16mar19
+3/17/19,886,951,533,598,312,"88,719","20,909","22,412","6,109","10,966",https://mailchi.mp/sante.gouv.cd/ebola_kivu_17mar19
+3/18/19,895,960,538,603,314,"89,173","20,956","22,470","6,109","10,972",https://mailchi.mp/sante.gouv.cd/ebola_kivu_18mar19
+3/19/19,903,968,541,606,315,"89,656","20,977","22,470","6,109","10,972",https://mailchi.mp/sante.gouv.cd/ebola_kivu_19mar19
+3/20/19,915,980,545,610,317,"89,855","20,986","22,470","6,109","11,012",https://mailchi.mp/sante.gouv.cd/ebola_kivu_20mar19
+3/21/19,926,991,549,614,318,"90,351","20,994","22,547","6,109","11,012",https://mailchi.mp/sante.gouv.cd/ebola_kivu_21mar19
+3/22/19,928,993,556,621,318,"90,650","21,036","22,622","6,109","11,027",https://mailchi.mp/sante.gouv.cd/ebola_kivu_22mar19
+3/23/19,934,999,560,625,320,"91,000","21,056","22,659","6,109","11,033",https://mailchi.mp/sante.gouv.cd/ebola_kivu_23mar19
+3/24/19,944,"1,009",564,629,321,"91,286","21,056","22,708","6,109","11,085",https://mailchi.mp/sante.gouv.cd/ebola_kivu_24mar19
+3/25/19,951,"1,016",569,634,321,"91,523","21,065","22,780","6,109","11,154",https://mailchi.mp/sante.gouv.cd/ebola_kivu_25mar19
+3/26/19,957,"1,022",574,639,324,"91,891","21,105","22,893","6,109","11,163",https://mailchi.mp/sante.gouv.cd/ebola_kivu_26mar19
+3/27/19,964,"1,029",577,642,324,"92,172","21,125","22,937","6,109","11,219",https://mailchi.mp/sante.gouv.cd/ebola_kivu_27mar19
+3/28/19,978,"1,044",586,652,325,"92,502","21,172","22,950","6,109","11,288",https://mailchi.mp/sante.gouv.cd/ebola_kivu_28mar19
+3/29/19,993,"1,059",594,660,325,"92,868","21,208","22,985","6,109","11,315",https://mailchi.mp/sante.gouv.cd/ebola_kivu_29mar19
+3/30/19,"1,003","1,069",599,665,329,"93,206","21,233","23,047","6,109","11,362",https://mailchi.mp/sante.gouv.cd/ebola_kivu_30mar19
+3/31/19,"1,016","1,082",610,676,331,"93,613","21,270","23,206","6,109","11,372",https://mailchi.mp/sante.gouv.cd/ebola_kivu_31mar19
+4/1/19,"1,023","1,089",613,679,331,"93,689","21,346","23,206","6,109","11,372",https://mailchi.mp/sante.gouv.cd/ebola_kivu_1avr19
+4/2/19,"1,026","1,092",617,683,333,"93,996","21,394","23,310","6,109","11,399",https://mailchi.mp/sante.gouv.cd/ebola_kivu_2avr19
+4/3/19,"1,034","1,100",624,690,338,"94,388","21,414","23,474","6,109","11,399",https://mailchi.mp/sante.gouv.cd/ebola_kivu_3avr19
+4/4/19,"1,041","1,107",629,695,339,"94,791","21,442","23,631","6,109","11,418",https://mailchi.mp/sante.gouv.cd/ebola_kivu_4avr19
+4/5/19,"1,051","1,117",636,702,339,"95,127","21,470","23,712","6,109","11,489",https://mailchi.mp/sante.gouv.cd/ebola_kivu_5avr19
+4/6/19,"1,064","1,130",648,714,342,"95,658","21,485","23,814","6,109","11,668",https://mailchi.mp/sante.gouv.cd/ebola_kivu_6avr19
+4/7/19,"1,080","1,146",655,721,345,"96,136","21,515","23,947","6,199","11,804",https://mailchi.mp/sante.gouv.cd/ebola_kivu_7avr19
+4/8/19,"1,088","1,154",665,731,350,"96,664","21,582","24,136","6,279","11,824",https://mailchi.mp/sante.gouv.cd/ebola_kivu_8avr19
+4/9/19,"1,102","1,168",675,741,350,"97,035","21,582","24,245","6,279","11,854",https://mailchi.mp/sante.gouv.cd/ebola_kivu_9avr19
+4/10/19,"1,120","1,186",685,751,354,"97,376","21,582","24,316","6,279","11,953",https://mailchi.mp/sante.gouv.cd/ebola_kivu_10avr19
+4/11/19,"1,140","1,206",698,764,358,"97,903","21,617","24,598","6,331","11,970",https://mailchi.mp/sante.gouv.cd/ebola_kivu_11avr19
+4/12/19,"1,154","1,220",706,772,364,"98,422","21,640","24,903","6,331","12,045",https://mailchi.mp/sante.gouv.cd/ebola_kivu_12avr19
+4/13/19,"1,174","1,240",726,792,365,"98,966","21,678","25,131","6,371","12,243",https://mailchi.mp/sante.gouv.cd/ebola_kivu_13avr19
+4/14/19,"1,185","1,251",737,803,371,"99,778","21,739","25,470","6,451","12,389",https://mailchi.mp/sante.gouv.cd/ebola_kivu_14avr19
+4/15/19,"1,198","1,264",748,814,374,"100,470","21,908","25,917","6,451","12,437",https://mailchi.mp/sante.gouv.cd/ebola_kivu_15avr19
+4/16/19,"1,207","1,273",755,821,374,"101,249","22,059","26,316","6,556","12,447",https://mailchi.mp/sante.gouv.cd/ebola_kivu_16avr19
+4/17/19,"1,224","1,290",767,833,379,"101,589","22,179","26,646","6,596","12,447",https://mailchi.mp/sante.gouv.cd/ebola_kivu_17avr19
+4/18/19,"1,236","1,302",777,843,380,"102,505","22,289","27,022","6,616","12,468",https://mailchi.mp/sante.gouv.cd/ebola_kivu_18avr19
+4/19/19,"1,251","1,317",789,855,383,"103,451","22,443","27,595","6,715","12,513",https://mailchi.mp/sante.gouv.cd/ebola_kivu_19avr19
+4/20/19,"1,261","1,327",793,859,387,"104,232","22,547","28,056","6,740","12,656",https://mailchi.mp/sante.gouv.cd/ebola_kivu_20avr19
+4/21/19,"1,270","1,336",804,870,387,"104,414","22,647","28,056","6,740","12,656",https://mailchi.mp/sante.gouv.cd/ebola_kivu_21avr19
+4/22/19,"1,274","1,340",808,874,387,"104,544","22,777","28,056","6,740","12,656",https://mailchi.mp/sante.gouv.cd/ebola_kivu_22avr19
+4/23/19,"1,287","1,353",814,880,387,"104,625","22,810","28,056","6,751","12,656",https://mailchi.mp/sante.gouv.cd/ebola_kivu_23avr19
+4/24/19,"1,301","1,367",819,885,392,"104,796","22,891","28,056","6,751","12,656",https://mailchi.mp/sante.gouv.cd/ebola_kivu_24avr19
+4/25/19,"1,307","1,373",824,890,394,"105,233","22,969","28,146","6,838","12,696",https://mailchi.mp/sante.gouv.cd/ebola_kivu_25avr19
+4/26/19,"1,330","1,396",834,900,394,"105,757","23,004","28,279","6,874","12,826",https://mailchi.mp/sante.gouv.cd/ebola_kivu_26avr19
+4/27/19,"1,351","1,417",848,914,405,"106,239","23,037","28,374","6,874","12,946",https://mailchi.mp/sante.gouv.cd/ebola_kivu_27avr19
+4/28/19,"1,373","1,439",865,931,410,"106,904","23,037","28,599","6,904","13,116",https://mailchi.mp/sante.gouv.cd/ebola_kivu_28avr19
+4/29/19,"1,400","1,466",891,957,411,"107,565","23,107","28,826","6,964","13,246",https://mailchi.mp/sante.gouv.cd/ebola_kivu_29avr19
+4/30/19,"1,414","1,480",904,970,412,"108,175","23,177","29,182","6,973","13,355",https://mailchi.mp/sante.gouv.cd/ebola_kivu_30avr19
+5/1/19,"1,429","1,495",918,984,415,"108,905","23,307","29,579","6,973","13,457",https://mailchi.mp/sante.gouv.cd/ebola_kivu_1mai19
+5/2/19,"1,444","1,510",928,994,421,"109,844","23,367","29,888","6,993","13,657",https://mailchi.mp/sante.gouv.cd/ebola_kivu_2mai19
+5/3/19,"1,463","1,529",942,"1,008",422,"110,803","23,397","30,145","7,063","13,763",https://mailchi.mp/sante.gouv.cd/ebola_kivu_3mai19
+5/4/19,"1,479","1,545",953,"1,019",434,"111,409","23,461","30,432","7,093","13,803",https://mailchi.mp/sante.gouv.cd/ebola_kivu_4mai19
+5/5/19,"1,488","1,554",963,"1,029",438,"111,579","23,551","30,432","7,093","13,803",https://mailchi.mp/sante.gouv.cd/ebola_kivu_5mai19
+5/6/19,"1,506","1,572",979,"1,045",439,"111,920","23,551","30,432","7,132","13,803",https://mailchi.mp/sante.gouv.cd/ebola_kivu_6mai19
+5/7/19,"1,519","1,585",989,"1,055",441,"112,225","23,681","30,432","7,202","13,803",https://mailchi.mp/sante.gouv.cd/ebola_kivu_7mai19
+5/8/19,"1,534","1,600","1,003","1,069",442,"112,485","23,752","30,432","7,202","13,803",https://mailchi.mp/sante.gouv.cd/ebola_kivu_8mai19
+5/9/19,"1,538","1,604","1,008","1,074",442,112762,"23,789","30,432","7,322","13,803",https://mailchi.mp/sante.gouv.cd/ebola_kivu_9mai19
+5/10/19,"1,561","1,649","1,017","1,105",444,113116,"23,789","30,432","7,446","13,803",https://mailchi.mp/sante.gouv.cd/ebola_kivu_10mai19
+5/11/19,"1,574","1,662","1,024","1,112",446,113667,"23,888","30,546","7,614","13,803",https://mailchi.mp/sante.gouv.cd/ebola_kivu_11mai19
+5/12/19,"1,592","1,680","1,029","1,117",450,114067,"23,918","30,701","7,730","13,896",https://mailchi.mp/sante.gouv.cd/ebola_kivu_12mai19
+5/13/19,"1,617","1,705","1,036","1,124",456,114553,"24,064","30,886","7,730","14,006",https://mailchi.mp/sante.gouv.cd/ebola_kivu_13mai19
+5/14/19,"1,632","1,720","1,048","1,136",459,115389,"24,184","31,103","7,825","14,146",https://mailchi.mp/sante.gouv.cd/ebola_kivu_14mai19
+5/15/19,"1,651","1,739","1,059","1,147",459,116233,"24,234","31,283","8,055","14,336",https://mailchi.mp/sante.gouv.cd/ebola_kivu_15mai19
+5/16/19,"1,672","1,760","1,073","1,161",461,117285,"24,304","31,472","8,379","14,466",https://mailchi.mp/sante.gouv.cd/ebola_kivu_16mai19
+5/17/19,"1,689","1,777","1,089","1,177",463,118029,"24,403","31,632","8,459","14,563",https://mailchi.mp/sante.gouv.cd/ebola_kivu_17mai19
+5/18/19,"1,713","1,801","1,110","1,198",466,118826,"24,426","31,762","8,748","14,679",https://mailchi.mp/sante.gouv.cd/ebola_kivu_18mai19
+5/19/19,"1,728","1,816","1,121","1,209",482,119652,"24,585","31,862","8,858","14,829",https://mailchi.mp/sante.gouv.cd/ebola_kivu_19mai19
+5/20/19,"1,738","1,826","1,130","1,218",484,120638,"24,748","32,010","9,138","14,909",https://mailchi.mp/sante.gouv.cd/ebola_kivu_20mai19
+5/21/19,"1,759","1,847","1,135","1,223",487,121202,"24,788","32,126","9,208","15,069",https://mailchi.mp/sante.gouv.cd/ebola_kivu_21mai19
+5/22/19,"1,778","1,866","1,153","1,241",490,121868,"24,884","32,192","9,397","15,259",https://mailchi.mp/sante.gouv.cd/ebola_kivu_22mai19
+5/23/19,"1,789","1,877","1,160","1,248",490,122695,"24,944","32,281","9,596","15,549",https://mailchi.mp/sante.gouv.cd/ebola_kivu_23mai19
+5/24/19,"1,800","1,888","1,166","1,254",492,123526,"25,048","32,412","9,883","15,798",https://mailchi.mp/sante.gouv.cd/ebola_kivu_24mai19
+5/25/19,"1,809","1,903","1,176","1,270",492,124125,"25,048","32,437","10,056","16,026",https://mailchi.mp/sante.gouv.cd/ebola_kivu_25mai19
+5/26/19,"1,818","1,912","1,183","1,277",496,124825,"25,116","32,487","10,157","16,212",https://mailchi.mp/sante.gouv.cd/ebola_kivu_26mai19
+5/27/19,"1,826","1,920","1,187","1,281",500,125467,"25,235","32,571","10,247","16,332",https://mailchi.mp/sante.gouv.cd/ebola_kivu_27mai19
+5/28/19,"1,832","1,926","1,193","1,287",503,126084,"25,294","32,639","10,368","16,391",https://mailchi.mp/sante.gouv.cd/ebola_kivu_28mai19
+5/29/19,"1,851","1,945","1,208","1,302",512,126565,"25,304","32,689","10,470","16,460",https://mailchi.mp/sante.gouv.cd/ebola_kivu_29mai19
+5/30/19,"1,860","1,954","1,218","1,312",521,127018,"25,323","32,739","10,584","16,539",https://mailchi.mp/sante.gouv.cd/ebola_kivu_30mai19
+5/31/19,"1,880","1,974","1,229","1,323",525,127697,"25,440","32,889","10,714","16,676",https://mailchi.mp/sante.gouv.cd/ebola_kivu_31mai19
+6/1/19,"1,888","1,982","1,238","1,332",531,128310,"25,575","32,986","10,864","16,792",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=5e35fa33ba
+6/2/19,"1,900","1,994","1,245","1,339",533,129001,"25,629","33,169","10,990","17,039",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=f056f28558
+6/3/19,"1,914","2,008","1,252","1,346",539,129596,"25,663","33,316","11,066","17,257",https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=307c1f0c6f
+6/4/19,"1,926","2,020","1,260","1,354",542,130039,"25,680","33,407","11,130","17,474",http://eepurl.com/gtSRl1
+6/5/19,"1,931","2,025","1,263","1,357",552,130254,"25,719","33,443","11,179","17,536",http://eepurl.com/gtZH3L
+6/6/19,"1,937","2,031","1,273","1,367",552,130711,"25,719","33,635","11,266","17,636",http://eepurl.com/gt7YnH
+6/7/19,"1,945","2,039","1,279","1,373",552,131004,"25,719","33,704","11,266","17,742",http://eepurl.com/guc9V5
+6/8/19,"1,953","2,047","1,287","1,381",556,131267,"25,719","33,710","11,367","17,818",http://eepurl.com/gugiU9
+6/9/19,"1,962","2,056","1,290","1,384",564,131481,"25,738","33,740","11,367","17,904",http://eepurl.com/guic8H
+6/10/19,"1,968","2,062","1,296","1,390",569,131860,"25,870","33,810","11,367","18,002",http://eepurl.com/guo1hj
+6/11/19,"1,977","2,071","1,302","1,396",575,132264,"25,870","33,887","11,377","18,146",http://eepurl.com/guxoy9
+6/12/19,"1,990","2,084","1,311","1,405",579,132679,"25,890","33,990","11,387","18,234",http://eepurl.com/guE1DP
+6/13/19,"2,014","2,108","1,317","1,411",585,133328,"25,998","34,052","11,540","18,330",https://mailchi.mp/sante.gouv.cd/ebola_kivu_13juin19
+6/14/19,"2,026","2,120","1,326","1,420",588,134002,"26,117","34,071","11,691","18,349",https://mailchi.mp/sante.gouv.cd/ebola_kivu_14juin19
+6/15/19,"2,040","2,134","1,333","1,427",588,134671,"26,245","34,071","11,746","18,397",https://mailchi.mp/sante.gouv.cd/ebola_kivu_15juin19
+6/16/19,"2,054","2,148","1,346","1,440",588,135395,"26,245","34,101","11,746","18,397",https://mailchi.mp/sante.gouv.cd/ebola_kivu_16juin19
+6/17/19,"2,074","2,168","1,355","1,449",596,135951,"26,408","34,159","12,077","18,496",https://mailchi.mp/sante.gouv.cd/ebola_kivu_17juin19
+6/18/19,"2,087","2,181","1,365","1,459",602,136537,"26,494","34,179","12,264","18,522",https://mailchi.mp/sante.gouv.cd/ebola_kivu_18juin19
+6/19/19,"2,096","2,190","1,376","1,470",604,137316,"26,574","34,226","12,441","18,563",https://mailchi.mp/sante.gouv.cd/ebola_kivu_19juin19
+6/20/19,"2,110","2,204","1,385","1,479",606,138326,"26,756","34,270","12,529","18,608",https://mailchi.mp/sante.gouv.cd/ebola_kivu_20juin19
+6/21/19,"2,117","2,211","1,395","1,489",612,139027,"26,895","34,362","12,694","18,630",https://mailchi.mp/sante.gouv.cd/ebola_kivu_21juin19
+6/22/19,"2,132","2,226","1,403","1,497",613,139989,"27,224","34,400",not found,"18,647",https://mailchi.mp/sante.gouv.cd/ebola_kivu_22juin19
+6/23/19,"2,145","2,239","1,412","1,506",621,140915,"27,444","34,440","13,067","18,671",https://mailchi.mp/sante.gouv.cd/ebola_kivu_23juin19
+6/24/19,"2,153","2,247","1,416","1,510",623,141754,"27,730","34,466","13,220","18,696",https://mailchi.mp/sante.gouv.cd/ebola_kivu_24juin19
+6/25/19,"2,171","2,265","1,428","1,522",626,142245,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_25juin19
+6/26/19,"2,183","2,277","1,437","1,531",628,142871,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_26juin19
+6/27/19,"2,190","2,284","1,446","1,540",637,143647,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_27juin19
+6/28/19,"2,203","2,297","1,459","1,553",641,144549,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_28juin19
+6/29/19,"2,218","2,312","1,465","1,559",642,145445,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_29juin19
+6/30/19,"2,231","2,325","1,469","1,563",644,146316,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_30juin19
+7/1/19,"2,244","2,338","1,477","1,571",653,147120,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_01juil19
+7/2/19,"2,260","2,354","1,492","1,586",654,148183,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_02juil19
+7/3/19,"2,275","2,369","1,504","1,598",655,149349,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_03juil19
+7/4/19,"2,288","2,382","1,512","1,606",666,150556,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_04juil19
+7/5/19,"2,295","2,389","1,519","1,613",667,151911,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_05juil19
+7/6/19,"2,304","2,398","1,524","1,618",667,153012,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_06juil19
+7/7/19,"2,314","2,408","1,531","1,625",668,154037,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_07juil19
+7/8/19,"2,324","2,418","1,536","1,630",671,154878,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_08juil19
+7/9/19,"2,334","2,438","1,547","1,641",683,155800,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_09juil19
+7/10/19,"2,343","2,437","1,552","1,646",683,156851,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_10juil19
+7/11/19,"2,357","2,451","1,553","1,647",683,158830,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_11juil19
+7/12/19,"2,368","2,462","1,554","1,648",683,159101,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_12juil19
+7/13/19,"2,383","2,477","1,561","1,655",694,160239,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_13juil19
+7/14/19,"2,395","2,489","1,571","1,665",698,161400,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_14juil19
+7/15/19,"2,407","2,501","1,574","1,668",700,162480,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_15juil19
+7/16/19,"2,418","2,512","1,582","1,676",703,163533,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_16juil19
+7/17/19,"2,428","2,522","1,604","1,698",717,164757,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_17juil19
+7/18/19,"2,438","2,532","1,611","1,705",718,165907,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_18juil19
+7/19/19,"2,452","2,546","1,621","1,715",721,167152,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_19juil19
+7/20/19,"2,470","2,564","1,634","1,728",726,168746,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_20juil19
+7/21/19,"2,484","2,578","1,643","1,737",729,169976,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_21juil19
+7/22/19,"2,498","2,592","1,649","1,743",729,171052,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_22juil19
+7/23/19,not found,not found,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_23juil19
+7/24/19,not found,not found,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_24juil19
+7/25/19,not found,not found,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_25juil19
+7/26/19,not found,not found,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_26juil19
+7/27/19,not found,not found,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_27juil19
+7/28/19,not found,not found,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_28juil19
+7/29/19,not found,not found,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_29juil19
+7/30/19,not found,not found,not found,not found 2,not found,not found,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_30juil19
+7/31/19,"2,607","2,701","1,719","1,813",776,180558,not found,not found,not found,not found,https://mailchi.mp/sante.gouv.cd/ebola_kivu_31juil19
+8/1/19,"2,607","2,701","1,719","1,813",776,180558,not found,not found,not found,not found,https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=f8f3462d42
+8/2/19,"2,619","2,713","1,729","1,823",782,181389,not found,not found,not found,not found,https://us13.campaign-archive.com/?u=89e5755d2cca4840b1af93176&id=a28b56946a
